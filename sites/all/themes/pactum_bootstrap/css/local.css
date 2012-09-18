@@ -1,0 +1,23 @@
+h1.page-header													{	display: none;
+																}
+																
+#globersel														{	margin: 4em 0;	
+																}
+
+.pactum-logo													{	
+																}
+																
+.contact-info													{	text-align: center;
+																}
+																
+.contact-info 													{	font-family: 'Goudy Bookletter 1911', serif;
+																	text-transform: uppercase;
+																	font-size: 12px;
+																	letter-spacing: 1px;
+																}
+
+.contact-btn													{	margin-top: 2em;
+																}
+
+.footer															{	border-top: none;
+																}															
