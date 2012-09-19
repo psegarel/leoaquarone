@@ -1,6 +1,6 @@
 <header id="navbar" role="banner" class="navbar navbar-fixed-top">
 	<div class="container">
-		<div class="span8 pactum-logo">
+		<div class="span8">
 			<?php if ($logo): ?>
 				<a class="brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
 					<img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
