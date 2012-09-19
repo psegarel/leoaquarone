@@ -5,7 +5,11 @@ h1.page-header													{	display: none;
 
 a																{	color: #1e3167;
 																	text-decoration: none;
-																}																
+																}	
+
+a:hover															{	color: #777777;
+																	text-decoration: none;
+																}															
 
 
 #globersel														{	margin: 1em 0 2em 0;	
