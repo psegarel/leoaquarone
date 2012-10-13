@@ -9,7 +9,12 @@ h2.block-title , p	,
 																}
 
 #header															{	background: #fff;
-																	padding: 4em 0 0 0;
+																}
+
+#top-nav														{	margin-bottom: 8em;
+																}
+																
+.header-info													{	/* padding: 4em 0 0 0; */
 																}
 																
 ul.footer-nav 													{	list-style: none;
@@ -54,7 +59,7 @@ a:hover															{	color: #777777;
 */															
 
 
-#globersel														{	margin: 1em 0 2em 0;
+#globersel														{	/* margin: 1em 0 2em 0; */
 																}
 																
 
@@ -71,9 +76,10 @@ a:hover															{	color: #777777;
 																	text-transform: uppercase;
 																	font-size: 12px;
 																	letter-spacing: 1px;
+																	padding: 4em 0;
 																}
 
-.contact-btn													{	margin-top: 2em;
+.contact-btn													{	/* margin-top: 2em; */
 																}
 
 .footer															{	border-top: none;

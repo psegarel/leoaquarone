@@ -1,3 +1,4 @@
+<section id="top-nav">
 <header id="navbar" role="banner" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
   	<div class="container">
@@ -49,11 +50,12 @@
   	</div>
   </div>
 </header>
+</section>
 
 <section id="header">
 	<div class="container">
 		<!-- Header -->
-		<div class="contact-info span12">
+		<div class="span12">
 			<a href="/"><img src="/sites/default/files/images/PAMlogo.jpg" /></a>
 			<p>Manager of the Globersel Pactum Natural Resources Fund</p>
 		</div>
