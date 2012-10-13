@@ -30,8 +30,8 @@
 			<ul class="nav">
 				<li><a href="/"><i class="icon-home icon-black"></i> Home</a></li>
 				<li class=""><a href="/disclaimer">Disclaimer</a></li>
-				<li><a class="external link" href="http://www.pillar3.eu/pam1200203/">Public Compliance Disclosures</a></li>
-				<li><a class="external link" href="mailto:leonard.aquarone@pactumam.com"><i class="icon-envelope icon-black"></i> Contact Us</a></li>
+				<li><a class="external link" target="_blank" href="http://www.pillar3.eu/pam1200203/">Public Compliance Disclosures</a></li>
+				<li><a class="external link" target="_blank" href="mailto:leonard.aquarone@pactumam.com"><i class="icon-envelope icon-black"></i> Contact Us</a></li>
 			</ul>
 			
       		<?php if ($primary_nav): ?>

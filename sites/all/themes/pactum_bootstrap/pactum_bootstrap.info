@@ -17,3 +17,5 @@ stylesheets[all][] = bootstrap/css/bootstrap.css
 stylesheets[all][] = css/twitter_bootstrap.css
 stylesheets[all][] = css/local.css
 stylesheets[all][] = bootstrap/css/bootstrap-responsive.css
+
+scripts[] = js/jquery-1.8.2.min.js
