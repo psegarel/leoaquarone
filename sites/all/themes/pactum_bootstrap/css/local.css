@@ -1,8 +1,15 @@
 /* darkblue 1e3167 */
 
 
-#header															{	margin: 20px 0;
-																	height: 100px;
+h2.block-title , p	,
+#globersel , .contact-info,	.footer								{	/* text-align: center; */
+																}
+
+#main-content , .footer 										{	background: #c1d1e2;
+																}
+
+#header															{	background: #fff;
+																	padding: 4em 0 0 0;
 																}
 																
 ul.footer-nav 													{	list-style: none;
@@ -24,17 +31,16 @@ h2.block-title													{	font-family: 'Josefin Slab', serif;
 																	text-transform: uppercase;
 																	font-size: 12px;
 																	letter-spacing: 1px;
-																	text-align: center;
 																}
 
 p																{	font-family: 'Josefin Slab', serif;
 																	text-transform: uppercase;
 																	font-size: 12px;
 																	letter-spacing: 1px;
-																	text-align: center;
 																}
 
 
+/*
 a																{	color: #1e3167;
 																	text-decoration: none;
 																}
@@ -44,15 +50,21 @@ a.link															{	text-decoration: underline;
 
 a:hover															{	color: #777777;
 																	text-decoration: none;
-																}															
+																}
+*/															
 
 
 #globersel														{	margin: 1em 0 2em 0;
-																	text-align: center;	
 																}
 																
-.contact-info													{	text-align: center;
-																	margin-top: 40px;
+
+.disclaimer														{	padding: 2em 0;
+																}
+																
+
+.disclaimer	p													{	font-family: Lucida Grande , Tahoma , Trebuchet , sans-serif;
+																	text-transform: none;
+																	letter-spacing: 0;
 																}
 																
 .contact-info 													{	font-family: 'Josefin Slab', serif;
@@ -66,8 +78,7 @@ a:hover															{	color: #777777;
 
 .footer															{	border-top: none;
 																	font-family: 'Josefin Slab', serif;
-																	font-style: italic;
-																	text-align: center;
+																	/* font-style: italic; */
 																}
 
 .pactum-button 													{	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
