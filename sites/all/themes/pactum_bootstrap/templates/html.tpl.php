@@ -8,7 +8,6 @@
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
-  <?php print $scripts; ?>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,5 +17,12 @@
   <?php print $page_top; ?>
   <?php print $page; ?>
   <?php print $page_bottom; ?>
+
+  <!-- Le javascript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <?php print $scripts; ?>
+  <script src="sites/all/themes/pactum_bootstrap/js/jquery-1.8.2.min.js"></script>
+  <script src="sites/all/themes/pactum_bootstrap/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>

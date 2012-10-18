@@ -1,5 +1,5 @@
 <section id="top-nav">
-<header id="navbar" role="banner" class="navbar navbar-fixed-top">
+<header id="navbar" role="banner" class="navbar navbar-fixed-bottom">
   <div class="navbar-inner">
   	<div class="container">
   	  <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
@@ -28,7 +28,7 @@
   	  <div class="nav-collapse">
     	  <nav role="navigation">
 			<ul class="nav">
-				<li><a href="/"><i class="icon-home icon-black"></i> Home</a></li>
+				<!-- <li><a href="/"><i class="icon-home icon-black"></i> Home</a></li> -->
 				<li class=""><a href="/disclaimer">Disclaimer</a></li>
 				<li><a class="external link" target="_blank" href="http://www.pillar3.eu/pam1200203/">Public Compliance Disclosures</a></li>
 				<li><a class="external link" target="_blank" href="mailto:leonard.aquarone@pactumam.com"><i class="icon-envelope icon-black"></i> Contact Us</a></li>
