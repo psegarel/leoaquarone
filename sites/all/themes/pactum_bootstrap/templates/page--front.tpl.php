@@ -24,7 +24,7 @@
     		  <?php endif; ?>
     		</hgroup>
   	  <?php endif; ?>
-  	  
+	
   	  <div class="nav-collapse">
     	  <nav role="navigation">
 			<ul class="nav">
@@ -53,22 +53,22 @@
 </section>
 
 <section id="header">
-	<div class="container">
-		<!-- Header -->
-		<div class="span12">
-			<a href="/"><img src="/sites/default/files/images/PAMlogo.jpg" /></a>
-			<p>Manager of the Globersel Pactum Natural Resources Fund</p>
-		</div>
-	</div>
+	<div class="container"><!-- Header -->
+		<div class="row"><!-- Header row-->
+			<div class="span7">
+				<a href="/"><img src="/sites/default/files/images/PAMlogo.jpg" /></a>
+				<p>Manager of the Globersel Pactum Natural Resources Fund</p>
+			</div>
+			<div class="span4">
+				<a class="external pactum-button contact-btn" href="mailto:leonard.aquarone@pactumam.com">Contact Us</a></span>
+			</div>
+		</div><!--  end Header row-->
+	</div><!--  end Header -->
 </section>
 
 <section id="main-content">
 	<div class="container">
 	  <header role="banner" id="page-header">
-	    <?php if ( $site_slogan ): ?>
-	      <p class="lead"><?php print $site_slogan; ?></p>
-	    <?php endif; ?>
-	
 	    <?php print render($page['header']); ?>
 	  </header> <!-- /#header -->
 		

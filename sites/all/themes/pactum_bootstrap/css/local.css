@@ -5,7 +5,7 @@ h2.block-title , p	,
 #globersel , .contact-info,	.footer								{	/* text-align: center; */
 																}
 
-#main-content /* , .footer */ 										{	background: #c1d1e2;
+#main-content 				 									{	background: #c1d1e2;
 																}
 
 #header															{	background: #fff;
@@ -55,8 +55,8 @@ a.link															{	text-decoration: underline;
 
 a:hover															{	color: #777777;
 																	text-decoration: none;
-																}
-*/															
+																}															
+*/
 
 
 #globersel														{	/* margin: 1em 0 2em 0; */
@@ -79,7 +79,7 @@ a:hover															{	color: #777777;
 																	padding: 4em 0;
 																}
 
-.contact-btn													{	/* margin-top: 2em; */
+.contact-btn													{	margin-top: 3.6em;
 																}
 
 .footer															{	border-top: none;
@@ -99,9 +99,9 @@ a:hover															{	color: #777777;
 																	border-radius:6px;
 																	border:1px solid #dcdcdc;
 																	display:inline-block;
-																	color:#777777;
-																	font-family:'Josefin Slab', serif;
-																	font-size:11px;
+																	color:#999;
+																	/* font-family:'Josefin Slab', serif; */
+																	font-size:18px;
 																	font-weight:normal;
 																	padding:6px 24px;
 																	text-decoration:none;
@@ -112,6 +112,7 @@ a:hover															{	color: #777777;
 																	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
 																	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
 																	background-color:#dfdfdf;
+																	text-decoration: none;
 																}
 
 .pactum-button:active 											{	position:relative;
