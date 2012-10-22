@@ -5,7 +5,7 @@ h2.block-title , p	,
 #globersel , .contact-info,	.footer								{	/* text-align: center; */
 																}
 
-#main-content , .footer 										{	background: #c1d1e2;
+#main-content /* , .footer */ 										{	background: #c1d1e2;
 																}
 
 #header															{	background: #fff;
